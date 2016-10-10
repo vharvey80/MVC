@@ -1,0 +1,27 @@
+﻿La génération a démarré 2015-10-09 12:21:26.
+     1>Projet "I:\Travail-progObjet\Travail progObjet\Travail_1\Travail_1\Travail_1.vcxproj" sur le nœud 2 (Build cible(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib Controleur.cpp MyForm.cpp Employee.cpp Project.cpp ProjectAssignation.cpp
+         Controleur.cpp
+         MyForm.cpp
+         Employee.cpp
+         Project.cpp
+         ProjectAssignation.cpp
+         Génération de code en cours...
+     1>i:\travail-progobjet\travail progobjet\travail_1\travail_1\controleur.cpp(44): warning C4715: 'TControleur::AfficherInfosEmployeNom' : les chemins de contrôle ne retournent pas tous une valeur
+     1>i:\travail-progobjet\travail progobjet\travail_1\travail_1\controleur.cpp(71): warning C4715: 'TControleur::AfficherInfosProjetNom' : les chemins de contrôle ne retournent pas tous une valeur
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /analyze- /errorReport:prompt "C:\Users\436\AppData\Local\Temp\.NETFramework,Version=v4.5.AssemblyAttributes.cpp"
+         .NETFramework,Version=v4.5.AssemblyAttributes.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"I:\Travail-progObjet\Travail progObjet\Travail_1\Debug\Travail_1.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\Travail_1.MyForm.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"I:\Travail-progObjet\Travail progObjet\Travail_1\Debug\Travail_1.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\Controleur.obj
+         Debug\MyForm.obj
+         Debug\Employee.obj
+         Debug\Project.obj
+         Debug\ProjectAssignation.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         Travail_1.vcxproj -> I:\Travail-progObjet\Travail progObjet\Travail_1\Debug\Travail_1.exe
+     1>Génération du projet "I:\Travail-progObjet\Travail progObjet\Travail_1\Travail_1\Travail_1.vcxproj" terminée (Build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:05.05
